@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+At time                    0, a =     0, b =     0, cin = 0 : sum =     0, cout = 0
+At time                10000, a = 43834, b = 21703, cin = 0 : sum =     1, cout = 1
+At time                20000, a =  4660, b = 22136, cin = 0 : sum = 26796, cout = 0
+At time                30000, a = 65535, b =     1, cin = 0 : sum =     0, cout = 1
+At time                40000, a = 43690, b = 21845, cin = 1 : sum =     0, cout = 1
+$finish called at time : 50 ns : File "/home/paula/SOC/tema2/tema2.srcs/sim_1/new/testbench.v" Line 51
